@@ -1,0 +1,62 @@
+.creditcard {
+	padding-top: 40px;
+	padding-right: 75px;
+	padding-bottom: 170px;
+	padding-left: 75px; 
+	background-color: red;
+		height: 100px;
+		width: 320px;
+	border-radius: 20px;
+}
+.number {
+	font-size: 35px;
+	color: white;
+	padding-top: 10px;
+}
+.chip {
+	background-color: silver;
+	width: 62px;
+	height: 50px;
+	padding-bottom: 0px;
+	border-radius: 10px;
+}
+.bankofamerica {
+	color: white;
+	padding-bottom: 30px;
+	font-size: 25px;
+	padding-left: 140px;
+}
+.name {
+	font-size: 20px;
+	color: white;
+	padding-top: 40px;
+}
+.visa {
+	padding-left: 270px;
+	color: white;
+	font-size: 50px;
+	position: absolute;
+	top: 250px;
+	left: 50px;
+}
+.debitcard {
+	transform: rotate(90deg);
+	font-size: 20px;
+	position: absolute;
+	top: 70px;
+	left: 400px;
+}
+.white {
+	background-color: white;
+	width: 40px;
+	height: 150px;
+	position: absolute;
+	top: 0px;
+	right: 150px;
+}
+img {
+	position: absolute;
+	display: block;
+	top: 25px;
+	left: 10px;
+}
